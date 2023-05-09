@@ -18,7 +18,18 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
+```
+#Developed by: VASANTH P
+#RegisterNumber: 212222240113
+a=int(input())
+b=int(input())
+c=a
+a=b
+b=c
+print("Swapped values are:",a,b)
+```
+## OUTPUT
+![image](https://github.com/Vasanthpushpa/Swapping-two-values/assets/119291100/7c67b3b5-4a63-4ea0-8d46-92e938371872)
 
 
 ## RESULT:
